@@ -44,10 +44,10 @@ p.nd_msza {
   margin: 5px 0 0 0;
   padding: 0;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 18px;
 }
 p.nd_msza_tyt {
-  margin: 12px 0 0 0;
+  margin: 18px 0 0 0;
   padding: 2px 3px;
   color: #fff;
   font-weight: bold;
@@ -56,7 +56,7 @@ p.nd_msza_tyt {
 }
 span.nd_swieto {
   color: #fff;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: bold;
 }
 span.nd_sigla {
@@ -66,27 +66,27 @@ p.nd_wstep {
   margin: 0;
   padding: 0 3px;
   color: #cfe3ea;
-  font-size: 11px;
+  font-size: 13px;
 }
 p.nd_czytanie_nazwa {
   margin: 10px 0 0 0;
   padding: 3px;
   background-color: #2f5560;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 16px;
   color: #fff;
 }
 p.nd_czytanie_sigla {
   margin: 0 0 5px 5px;
   padding: 0;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 16px;
 }
 p.nd_czytanie2 {
   margin: 0;
   padding: 0;
   font-weight: bold;
-  font-size: 11px;
+  font-size: 13px;
 }
 p.nd_czytanie_tyt {
   margin: 0 0 0 5px;
@@ -96,12 +96,12 @@ p.nd_czytanie_tyt {
 p.nd_czytanie_tresc {
   margin: 0 0 0 5px;
   padding: 0;
-  font-size: 12px;
+  font-size: 16px;
 }
 p.nd_czytanie_albo {
   margin: 0 0 0 5px;
   padding: 0;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: bold;
   color: #ffb3b3;
 }
@@ -109,24 +109,24 @@ p.nd_czytanie_odp {
   margin: 5px 0;
   padding: 0;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 16px;
 }
 p.nd_psalm {
   margin: 5px 0 5px 10px;
   padding: 0;
-  font-size: 12px;
+  font-size: 16px;
 }
 p.nd_psalm_refren {
   margin: 5px 0 5px 5px;
   padding: 0;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 16px;
 }
 p.nd_czytanie_perykopa {
   margin: 5px 0 0 5px;
   padding: 0;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 16px;
   color: #ffb3b3;
 }
 p.nd_dodatki_tyt {
@@ -137,13 +137,13 @@ p.nd_dodatki_tyt {
 p.nd_dodatki_styt {
   margin: 0 0 0 5px;
   padding: 0;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: bold;
 }
 p.nd_dodatki_tresc {
   margin: 0 0 0 5px;
   padding: 0;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 /* Banery i linki niedziela.pl - muszą zostać widoczne */
