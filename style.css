@@ -81,7 +81,7 @@ p.nd_czytanie_sigla {
   padding: 0;
   font-weight: bold;
   font-size: 18px;
-  color:red;
+  color:#ff0000;
 }
 p.nd_czytanie2 {
   margin: 0;
@@ -111,7 +111,7 @@ p.nd_czytanie_odp {
   padding: 0;
   font-weight: bold;
   font-size: 16px;
-  color:red;
+  color:#ff0000;
 }
 p.nd_psalm {
   margin: 5px 0 5px 10px;
@@ -123,7 +123,7 @@ p.nd_psalm_refren {
   padding: 0;
   font-weight: bold;
   font-size: 16px;
-  color:red;
+  color: #ff0000;
 }
 p.nd_czytanie_perykopa {
   margin: 5px 0 0 5px;
